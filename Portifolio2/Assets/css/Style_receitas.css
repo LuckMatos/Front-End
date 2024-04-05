@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: beige; /* Cor de fundo */
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto; /* Centraliza o conteúdo na página */
+  padding: 20px;
+  background-color: #fff; /* Fundo branco para o conteúdo */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+p {
+  text-align: center; /* Centraliza o texto */
+  margin-bottom: 20px;
+}
